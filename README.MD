@@ -9,7 +9,7 @@
 <p> Bu projeyi geliştirme amacım <strong>Bootstrap</strong> kütüphanesine hakim olmak ve efektif bir şekilde kullanabilmekti.</p>
 
 <h2> Site ziyareti için tıklayınız: </h2>
-<a href="https://udemib.netlify.app/"></a>
+https://udemib.netlify.app/
 
 <h3> Sitenin görünüsü asagıdadır. </h3>
 
